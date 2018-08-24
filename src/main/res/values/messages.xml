@@ -1,0 +1,7 @@
+<resources>
+    <string name="message_wait">Please wait</string>
+    <string name="message_loading">Loading Repositories</string>
+    <string name="message_sync">Sync Repositories</string>
+
+    <string name="error_no_connectivity">Please connect to the internet</string>
+</resources>
